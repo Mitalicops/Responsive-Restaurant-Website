@@ -1,7 +1,7 @@
 # Responsive-Restaurant-Website
 NOTE: THIS IS A GREAT UI DESIGN FOR A RESTAURANT START UP OR ANY OTHER FOOD RELATED BUSINESS ENDEAVOURS.
 
-#LINK TO WEBSITE:
+# LINK TO WEBSITE:
 https://responsive-restaurant-website-rho.vercel.app/
 
 # SCREENSHOT OF THE WEBSITE:
